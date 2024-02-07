@@ -2,7 +2,7 @@
 
 ## Overview 🌟
 
-TodoList is a simple app for managing daily tasks. Built with (Android Studio)[https://developer.android.com/studio] and (Kotlin)[https://kotlinlang.org/].
+TodoList is a simple app for managing daily tasks. Built with [Android Studio](https://developer.android.com/studio) and [Kotlin](https://kotlinlang.org/).
 
 ## Features ✨
 
@@ -33,4 +33,4 @@ TodoList is a simple app for managing daily tasks. Built with (Android Studio)[h
 
    After the project syncs, run the app on an emulator or a connected Android device.
 
-Followed tutorial: https://www.youtube.com/watch?v=BBWyXo-3JGQ
+Built using followed [tutorial](https://www.youtube.com/watch?v=BBWyXo-3JGQ)
